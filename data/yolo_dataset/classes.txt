@@ -1,0 +1,2 @@
+0: stain
+1: defect free

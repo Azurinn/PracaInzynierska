@@ -1,0 +1,33 @@
+{
+    "classes": [
+        {
+            "title": "stain",
+            "shape": "rectangle",
+            "color": "#FF001F",
+            "geometry_config": {},
+            "id": 37102,
+            "hotkey": ""
+        }
+    ],
+    "tags": [
+        {
+            "name": "defect free",
+            "value_type": "none",
+            "color": "#0F158A",
+            "id": 8380,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        },
+        {
+            "name": "stain",
+            "value_type": "none",
+            "color": "#160F8A",
+            "id": 8381,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        }
+    ],
+    "projectType": "images"
+}

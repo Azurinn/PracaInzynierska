@@ -1,0 +1,8 @@
+# YOLOv8 dataset configuration
+path: /Users/janpieczkowski/Desktop/Inzynierka/data/yolo_dataset
+train: train/images
+val: val/images
+
+# Classes
+nc: 2
+names: ['stain', 'defect free']
